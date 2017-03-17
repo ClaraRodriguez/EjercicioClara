@@ -18,6 +18,11 @@ public class Calc {
 			return x - y;
 			
 		}
+		
+		public int div (int x, int y){
+			return x / y;
+			
+		}
 
 		public int getNum1() {
 			return num1;
